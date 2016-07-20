@@ -8,4 +8,4 @@ make
 make test
 sudo make install
 cd utils
-sudo ./install_server.sh -y
+echo -n | sudo ./install_server.sh
